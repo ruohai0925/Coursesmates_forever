@@ -1,1 +1,1 @@
-# coursesmates_forever
+# coursemates_forever
